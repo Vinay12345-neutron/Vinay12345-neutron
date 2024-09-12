@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinay12345-neutron
 - 👀 I’m interested in innovating the future by means of Engineering!
-- 🌱 I’m currently in high school and aspiring to major in Electrical and Mechanical Enfineering.
+- 🌱 I’m currently in high school and aspiring to major in Electrical and Mechanical Engineering.
 - 💞️ I’m looking to collaborate on electronic projects
 - 📫 How to reach me ... 
 
