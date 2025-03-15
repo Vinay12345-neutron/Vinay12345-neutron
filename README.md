@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vinay12345-neutron
 - 👀 I’m interested in innovating the future by means of Engineering!
-- 🌱 I’m currently in high school and aspiring to major in Electrical and Mechanical Engineering.
-- 💞️ I’m looking to collaborate on electronic projects
+- 🌱 I'm currently in my first year in BITS Pilani
 - 📫 How to reach me ... 
 
 <!---
